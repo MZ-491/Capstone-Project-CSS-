@@ -1,0 +1,100 @@
+.hero{
+    background-color: #6482AD;
+    color: #921A40;
+}
+#heading{
+    text-align: center;
+    padding-top: 75px;
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.first{
+    margin-left: 650px;
+    border-radius: 100px;
+}
+.heading1{
+    text-align: center;
+    padding-bottom: 50px;
+    color: greenyellow;
+}
+.Aboutme{
+    background-color: wheat;
+    padding-top: 50px;
+    display: flex;
+    gap: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+strong{
+    color:   #FF7777; 
+    font-size: 30px;
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.MyProjects{
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.heading2{
+    font-size: 30px;
+}
+#heading{
+    font-size: 30px;
+}
+.Hobbies{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+.container2{
+    display: flex;
+    gap: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.heading5{
+    text-align: center;
+    padding-left: 0px;
+    padding-bottom: 15px;
+    color: #ff4c68;
+}
+.container3{
+    display: flex;
+    padding-left: 100px;
+    gap: 425px;
+    color: aquamarine;
+}
+.heading6{
+    padding-left: 75px;
+}
+.Contact{
+    background-color: #48CFCB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.container4{
+    display: flex;
+    justify-content: center;
+    gap: 175px;
+}
+.container5{
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+    color: whitesmoke;
+}
+.last{
+    text-align: center;
+    color: #ff4c68;
+}
